@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+currently+studying+for+my+Bachelor's+Degree+in+Information+%26+Technology)](https://git.io/typing-svg)
+I am currently studying for a Bachelor's Degree in Information Technology. My specialization is Data Science.
 
 
 ## 🌐 Socials:
@@ -11,9 +12,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=DuyNhat1705&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=DuyNhat1705&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DuyNhat1705&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DuyNhat1705&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
